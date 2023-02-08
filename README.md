@@ -7,9 +7,12 @@ I am currently studying to be a Frontend developer @ Medieinstitutet in Malmö (
 ### 🧠  What am I currently learning?
 At the moment I am learning about [How to create an API](http://github.com/devjoppe/mi-product-list) with NodeJS, TS, Express and PRISMA.
 
----
-
 ### My learning focus is on the following:
+
+<div style="display: flex">
+
+<div style="margin-right: 10%">
+
 #### Frontend
 
 
@@ -22,6 +25,10 @@ At the moment I am learning about [How to create an API](http://github.com/devjo
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 </p>
 
+</div>
+
+<div>
+
 #### Backend
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
@@ -30,7 +37,9 @@ At the moment I am learning about [How to create an API](http://github.com/devjo
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
----
+</div>
+
+</div>
 
 ### I have skills in:
 #### UX/UI Design
