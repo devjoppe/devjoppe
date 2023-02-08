@@ -1,10 +1,8 @@
-Hello 👋
-=======================
 Frontend Developer
 -----------------
 I am currently studying to be a Frontend developer @ Medieinstitutet in Malmö (Sweden). Before my journey as a junior developer, I have years of experience working with UX/UI and digital design.
 
-### 🧠  What am I currently learning?
+### What am I currently learning?
 At the moment I am learning about [How to create an API](http://github.com/devjoppe/mi-product-list) with NodeJS, TS, Express and PRISMA.
 
 ### My learning focus is on the following:
@@ -28,7 +26,7 @@ At the moment I am learning about [How to create an API](http://github.com/devjo
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-### 🔨 I have skills in:
+### I have skills in:
 #### UX/UI Design
 <p align="left">
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
