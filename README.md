@@ -3,7 +3,7 @@ Frontend Developer
 I am currently studying to be a Frontend developer @ Medieinstitutet in Malmö (Sweden). Before my journey as a junior developer, I have years of experience working with UX/UI and digital design.
 
 ### What am I currently learning?
-At the moment I am learning about [How to create an API](http://github.com/devjoppe/mi-product-list) with NodeJS, TS, Express and PRISMA.
+At the moment I am learning more about REACT.
 
 ### My learning focus is on the following:
 
