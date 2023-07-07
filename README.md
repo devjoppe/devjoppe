@@ -1,11 +1,11 @@
 Frontend Developer
 -----------------
-I am currently studying to be a Frontend developer @ Medieinstitutet in Malmö (Sweden). Before my journey as a junior developer, I have years of experience working with UX/UI and digital design.
+I am currently studying to be a Frontend developer @ Medieinstitutet in Malmö (Sweden).
 
-### What am I currently learning?
-At the moment I am learning more about REACT.
+### What I like working on:
+UI in React
 
-### My learning focus is on the following:
+### My Web stack
 
 #### Frontend
 
@@ -26,8 +26,7 @@ At the moment I am learning more about REACT.
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-### I have skills in:
-#### UX/UI Design
+#### Tools
 <p align="left">
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
