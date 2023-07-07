@@ -8,4 +8,4 @@ I am studying to be a Frontend developer @ Medieinstitutet in Malmö (Sweden).
 
 #### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,powershell,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,powershell,&perline=4)](https://skillicons.dev)
