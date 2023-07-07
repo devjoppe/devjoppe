@@ -1,4 +1,4 @@
-Frontend Developer
+👋 Frontend Developer
 -----------------
 I am studying to be a Frontend developer @ Medieinstitutet in Malmö (Sweden).
 
