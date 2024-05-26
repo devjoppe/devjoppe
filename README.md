@@ -1,6 +1,5 @@
 👋 Hello!
 -----------------
-I am studying to be a Frontend developer @ Medieinstitutet in Malmö (Sweden).
 
 ### Preferred Web stack
 
